@@ -59,8 +59,8 @@ section {
 }
 
 .myNavbar {
-    position: relative;
-    float: right;
+    /* position: relative; */
+    /* float: right; */
 }
 
 .img-thumbnail {
