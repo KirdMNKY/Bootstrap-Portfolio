@@ -8,4 +8,4 @@ This site is my personal portfolio consisting of projects created while attendin
 
 Use the navigation bar to find out more information about me and to see my projects. Links to the projects are located under the Portfolio tab and are placed on the label running across the image.
 
-(Click here to get started!)[https://kirdmnky.github.io/project-one/]
+(Click here to get started!)[https://kirdmnky.github.io/Bootstrap-Portfolio/]
